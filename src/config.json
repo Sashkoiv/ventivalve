@@ -1,0 +1,20 @@
+{
+    "ap": {
+        "auth": "3",
+        "pswd": "ventilator",
+        "ssid": "ventilator"
+    },
+    "mqtt": {
+        "port": 12487,
+        "pswd": "M0D6C8lfFRGG",
+        "pub_topic": "Radiator",
+        "server": "farmer.cloudmqtt.com",
+        "sub_topic": "Radiator",
+        "user": "lxzvqebd"
+    },
+    "wifi": {
+        "young-family": "good2best",
+        "workshop": "05071175",
+        "hacklab": "hacklab"
+    }
+}
